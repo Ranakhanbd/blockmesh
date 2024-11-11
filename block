@@ -1,0 +1,1 @@
+sudo curl -O https://raw.githubusercontent.com/earnpoint/BlockMesh/refs/heads/main/blockmesh.sh && sudo chmod +x blockmesh.sh && ./blockmesh.sh
